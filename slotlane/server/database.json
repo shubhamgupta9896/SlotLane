@@ -1,0 +1,18 @@
+{
+  "users": {
+    "ashish@gmail.com": [
+      {
+        "name": "Ashish",
+        "carNumber": "hr10r1100",
+        "phone": "0q3rqq3"
+      },
+      {
+        "name": "invincible2828",
+        "carNumber": "alsjfaj",
+        "phone": "0262343"
+      }
+    ]
+  },
+  "occupied_slots": 0,
+  "available_slots": 12
+}
